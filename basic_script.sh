@@ -6,4 +6,5 @@ read -p "Enter Second Number = " b
 c=$((a+b))
 
 echo " addition is $c "
+echo " added by vm2 "
 
